@@ -69,11 +69,11 @@
     <td><b>Stack Overflow (2023)</b>: <b>83% das empresas</b> incentivam o uso de ferramentas de IA para programação, com <b>56% reportando ganhos de produtividade acima de 20%</b></td>
   </tr>
   <tr>
-    <td><img src="https://www.mckinsey.com/~/media/mckinsey/overview/icons/mck_logo_360px.svg" width="60" height="60" alt="McKinsey Logo"></td>
+    <td>⏱️</td>
     <td><b>McKinsey (2023)</b>: "The State of AI in 2023" demonstrou <b>redução média de 37% no tempo de desenvolvimento</b> e <b>42% na identificação de bugs</b></td>
   </tr>
   <tr>
-    <td><img src="https://www.idc.com/sites/default/files/idc_logo_27c.svg" width="60" height="60" alt="IDC Logo"></td>
+    <td>🔮</td>
     <td><b>IDC (2024)</b>: Previu que até o final de 2024, <b>mais de 80% das empresas de software</b> terão integrado ferramentas de IA no fluxo de trabalho</td>
   </tr>
   <tr>
