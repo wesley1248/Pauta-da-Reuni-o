@@ -50,7 +50,7 @@
 * 🏢 **Empresas competidoras já adotaram ferramentas de IA para desenvolvimento:**
 <br/>Microsoft  •  Google  •  Amazon  •  Meta  •  IBM  •  Oracle
 Itaú  •  Bradesco  •  XP Investimentos  •  Magalu
-Mercado Livre  •  Nubank  •  Stone  •  Globo  •  Vale  •  Petrobras
+• Mercado Livre  •  Nubank  •  Stone  •  Globo  •  Vale  •  Petrobras
 
 * ⚠️ Equipes sem acesso enfrentam clara desvantagem competitiva
 * 🎓 Desenvolvedores estão sendo treinados em universidades para usar IA como parte do fluxo de trabalho moderno
