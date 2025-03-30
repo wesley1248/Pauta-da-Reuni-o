@@ -48,7 +48,7 @@
 ### Estado Atual da Adoção de IA no Desenvolvimento
 
 * 🏢 **Empresas competidoras já adotaram ferramentas de IA para desenvolvimento:**
-Microsoft  •  Google  •  Amazon  •  Meta  •  IBM  •  Oracle
+<br/>Microsoft  •  Google  •  Amazon  •  Meta  •  IBM  •  Oracle
 Itaú  •  Bradesco  •  XP Investimentos  •  Magalu
 Mercado Livre  •  Nubank  •  Stone  •  Globo  •  Vale  •  Petrobras
 
