@@ -1,4 +1,4 @@
-# 🚀 Justificativa: Acesso de Desenvolvedores às Ferramentas de IA
+# 🚀 Acesso de Desenvolvedores às Ferramentas de IA
 
 <!-- Índice -->
 <details open>
