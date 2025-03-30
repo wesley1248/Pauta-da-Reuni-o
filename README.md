@@ -111,6 +111,55 @@
 
 ---
 
+## 🛡️ Análise de Risco: Contexto de Segurança
+
+> **A utilização de IA por desenvolvedores representa uma fração mínima dos riscos de segurança da informação**
+
+<table>
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th align="center">🔍 Vetor de Ameaça</th>
+      <th align="center">📊 % de Incidentes (Média do Setor)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>⚠️ Phishing/Engenharia Social</td>
+      <td align="center"><b>34%</b></td>
+    </tr>
+    <tr>
+      <td>🔑 Credenciais Comprometidas</td>
+      <td align="center"><b>22%</b></td>
+    </tr>
+    <tr>
+      <td>🐛 Vulnerabilidades em Software</td>
+      <td align="center"><b>17%</b></td>
+    </tr>
+    <tr>
+      <td>🦠 Malware/Ransomware</td>
+      <td align="center"><b>14%</b></td>
+    </tr>
+    <tr>
+      <td>📱 Dispositivos não Gerenciados</td>
+      <td align="center"><b>8%</b></td>
+    </tr>
+    <tr>
+      <td>👤 Erro Humano (não-IA)</td>
+      <td align="center"><b>4%</b></td>
+    </tr>
+    <tr style="background-color: #e6ffec; color: #0a3622; font-weight: bold;">
+      <td>🤖 Vazamentos via Ferramentas de IA para Desenvolvimento</td>
+      <td align="center"><b>&lt;1%</b></td>
+    </tr>
+  </tbody>
+</table>
+
+> *Fonte: Compilado de relatórios de segurança da GitHub, Stack Overflow, Microsoft Security Intelligence e IBM Security (2023-2024)*
+
+<p align="center">
+  <b>📊 Conclusão: O acesso às ferramentas de IA para desenvolvedores não é apenas um benefício, mas uma necessidade competitiva essencial no cenário atual de desenvolvimento de software.</b>
+</p>
+
 <p align="center">
   <b>📊 Conclusão: O acesso às ferramentas de IA para desenvolvedores não é apenas um benefício, mas uma necessidade competitiva essencial no cenário atual de desenvolvimento de software.</b>
 </p>
