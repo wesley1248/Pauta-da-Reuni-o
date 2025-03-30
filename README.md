@@ -154,7 +154,7 @@
   </tbody>
 </table>
 
-> *Fonte: Compilado de relatórios de segurança da GitHub, Stack Overflow, Microsoft Security Intelligence e IBM Security (2023-2024)*
+> *Fontes: Compilado de relatórios de segurança da [GitHub](https://github.com/security), [Stack Overflow](https://insights.stackoverflow.com/survey), [Microsoft Security Intelligence](https://www.microsoft.com/en-us/security/business/security-intelligence-report) e [IBM Security](https://www.ibm.com/security/data-breach) (2023-2024)*
 
 <p align="center">
   <b>📊 Conclusão: O acesso às ferramentas de IA para desenvolvedores não é apenas um benefício, mas uma necessidade competitiva essencial no cenário atual de desenvolvimento de software.</b>
