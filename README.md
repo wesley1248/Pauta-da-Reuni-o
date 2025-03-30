@@ -114,7 +114,3 @@
 <p align="center">
   <b>📊 Conclusão: O acesso às ferramentas de IA para desenvolvedores não é apenas um benefício, mas uma necessidade competitiva essencial no cenário atual de desenvolvimento de software.</b>
 </p>
-
-<p align="center">
-  <a href="https://github.com"><img src="https://img.shields.io/badge/Preparado%20por-Equipe%20de%20Desenvolvimento-blue?style=for-the-badge" alt="Preparado pela Equipe de Desenvolvimento"></a>
-</p>
