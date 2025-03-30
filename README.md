@@ -1,9 +1,5 @@
 # 🚀 Justificativa: Acesso de Desenvolvedores às Ferramentas de IA
 
-[![Status do Projeto](https://img.shields.io/badge/Status-Em%20Análise-yellow)](https://github.com)
-[![Impacto](https://img.shields.io/badge/Impacto-Alto-red)](https://github.com)
-[![Benefícios](https://img.shields.io/badge/Benefícios-Comprovados-success)](https://github.com)
-
 <!-- Índice -->
 <details open>
   <summary><b>📑 Índice</b></summary>
