@@ -14,6 +14,12 @@
       </ul>
     </li>
     <li><a href="#️-análise-de-risco-contexto-de-segurança">Análise de Risco: Contexto de Segurança</a></li>
+    <li><a href="#-ferramentas-de-ia-para-desenvolvimento">Ferramentas de IA para Desenvolvimento</a>
+      <ul>
+        <li><a href="#assistentes-de-codificação">Assistentes de Codificação</a></li>
+        <li><a href="#ias-conversacionais-para-desenvolvimento">IAs Conversacionais para Desenvolvimento</a></li>
+      </ul>
+    </li>
   </ol>
 </details>
 
@@ -168,12 +174,6 @@
 
 ## 🤖 Ferramentas de IA para Desenvolvimento
 
-### IAs Conversacionais para Desenvolvimento
-* **Claude** - Assistente de IA da Anthropic, versátil para desenvolvimento e diversos contextos
-* **ChatGPT (OpenAI)** - Modelo geral com forte capacidade de codificação
-* **Perplexity AI** - Assistente com recursos de pesquisa integrados
-* **GPT-4 Code Interpreter** - Assistente com capacidade de executar código
-
 ### Assistentes de Codificação
 * **GitHub Copilot** - Assistente de código baseado em IA da Microsoft/GitHub
 * **Amazon CodeWhisperer** - Assistente de programação da AWS
@@ -184,3 +184,10 @@
 * **Replit Ghostwriter** - Assistente de programação integrado ao Replit
 * **Visual Studio IntelliCode** - Assistente de código da Microsoft para Visual Studio
 
+### IAs Conversacionais para Desenvolvimento
+* **Claude** - Assistente de IA da Anthropic, versátil para desenvolvimento e diversos contextos
+* **ChatGPT (OpenAI)** - Modelo geral com forte capacidade de codificação
+* **Bard/Gemini (Google)** - Modelo conversacional com recursos de codificação
+* **Bing Chat/Copilot** - Assistente integrado da Microsoft
+* **Perplexity AI** - Assistente com recursos de pesquisa integrados
+* **GPT-4 Code Interpreter** - Assistente com capacidade de executar código
